@@ -5,7 +5,31 @@
   <b>About Me</b>
 </h2>
 
-<img width="200" src="https://github.com/user-attachments/assets/2547331e-3034-43a6-9dd0-d2f3f7078d45" />
+<table>
+  <tr>
+    <td width="65%" valign="top">
+
+Hi! I'm **Alfredo Martinez**, a Game Programming student in Vancouver, Canada.
+
+I'm passionate about **game development**, **graphics programming**, and creating fun interactive experiences.  
+I enjoy working with **C++**, **C#**, **Unity**, **Unreal Engine**, and **raylib**.
+
+I'm currently learning more about:
+<br><br>
+
+- Game programming  
+- 3D graphics  
+- Gameplay systems  
+- Tools and engine development  
+- Creative game design  
+
+    </td>
+
+    <td width="35%" align="center">
+      <img width="200" src="https://github.com/user-attachments/assets/2547331e-3034-43a6-9dd0-d2f3f7078d45" />
+    </td>
+  </tr>
+</table>
 
 <h2>
   <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="35" height="35"/>
