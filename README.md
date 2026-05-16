@@ -1,4 +1,11 @@
-<h1 align="center">Hi , I'm Alfredo Martinez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Alfredo Martinez <img src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" width="35"></h1>
+
+<h2>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="35" height="35"/>
+  <b>About Me</b>
+</h2>
+
+<img width="200" src="https://github.com/user-attachments/assets/2547331e-3034-43a6-9dd0-d2f3f7078d45" />
 
 <h2>
   <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="35" height="35"/>
