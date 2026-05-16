@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Alfredo Martinez <img src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Alfredo Martinez <img src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" width="35"></h1>
 
 <h2>
   <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="35" height="35"/>
