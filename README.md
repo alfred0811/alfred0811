@@ -9,7 +9,7 @@
   <tr>
     <td width="65%" valign="top">
 
-Hi! I'm **Alfredo Martinez**, a Game Programming student in Vancouver, Canada.
+I'm a Game Programming student in Vancouver, Canada.
 
 I'm passionate about **game development**, **graphics programming**, and creating fun interactive experiences.  
 I enjoy working with **C++**, **C#**, **Unity**, **Unreal Engine**, and **raylib**.
